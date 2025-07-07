@@ -1,6 +1,7 @@
-# 🪙 FlipCoin - Heads or Tails Mobile App
+# 🪙 FlipCoin - Heads or Tails (Flutter APP)
 
-**FlipCoin** is a modern mobile app developed with Flutter that brings the classic heads or tails decision-making game to your smartphone. Featuring a user-friendly interface, realistic animations, and responsive design, FlipCoin offers a fun and stylish experience.
+**FlipCoin** is a modern mobile app developed with Flutter that brings the classic heads or tails decision-making game to your smartphone. 
+Featuring a user-friendly interface, realistic animations, and responsive design, FlipCoin offers a fun and stylish experience.
 
 ---
 
@@ -12,14 +13,6 @@
 * 📊 Real-time heads/tails score tracking
 * ▶️ Reset button to restart the game
 * 🎨 Gradient background and custom fonts (Google Fonts)
-
----
-
-## 🌟 Screenshots
-
-| Animation | Result               | Score               |   |
-| --------- | -------------------- | ------------------- | - |
-|           | "HEADS!" or "TAILS!" | Heads: 2 - Tails: 3 |   |
 
 ---
 
@@ -43,7 +36,7 @@ flipcoin_flutter/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/flipcoin_flutter.git
+git clone https://github.com/bektas-sari/flipcoin_flutter.git
 cd flipcoin_flutter
 ```
 
