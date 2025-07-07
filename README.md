@@ -67,11 +67,11 @@ Generated file: `build/app/outputs/flutter-apk/app-release.apk`
 ## 👤 Developer
 
 **Bektas Sari**
-Email: [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)
-GitHub: [github.com/bektas-sari](https://github.com/bektas-sari)
-LinkedIn: [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)
-ResearchGate: [Bektas Sari](https://www.researchgate.net/profile/Bektas-Sari-3)
-Academia: [bektassari](https://independent.academia.edu/bektassari)
+Email: [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)<br>
+GitHub: [github.com/bektas-sari](https://github.com/bektas-sari)<br>
+LinkedIn: [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)<br>
+ResearchGate: [Bektas Sari](https://www.researchgate.net/profile/Bektas-Sari-3)<br>
+Academia: [bektassari](https://independent.academia.edu/bektassari)<br>
 
 ---
 
