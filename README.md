@@ -77,6 +77,6 @@ Academia: [bektassari](https://independent.academia.edu/bektassari)<br>
 
 ## 📄 License
 
-Licensed under the MIT License. See the `LICENSE` file for details.
+Licensed under the MIT License.
 
 > Feel free to fork, enhance, or distribute this app!
